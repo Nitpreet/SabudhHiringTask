@@ -1,5 +1,11 @@
 # SabudhHiringTask
 
+In order to run the the project you should have the installed the following libraries:
+##### mysql.connector
+##### pymongo
+##### flask
+
+
 # Project_Euler Problem 45
 Firstly I tried list for saving all the pentagonal, hexagonal and triangle numbers. 
 But the lists were not efficient enough. They were taking more than 7-8 minutes for saving the same.
