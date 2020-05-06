@@ -9,7 +9,7 @@ In order to run the the project you should have the installed the following libr
 # Project_Euler Problem 45
 Firstly I tried list for saving all the pentagonal, hexagonal and triangle numbers. 
 But the lists were not efficient enough. They were taking more than 7-8 minutes for saving the same.
-Then I tried set and I was surprised that it took only a few seconds to save all the pentagonal, hexagonal  and triangle numbers to the set.
+Then I tried set and I was surprised that it took only a few seconds to save all the pentagonal, hexagonal  and triangle numbers to the set and gave the result within a few seconds.
 
 # Flask App
 
