@@ -17,7 +17,8 @@ Then I tried set and I was surprised that it took only a few seconds to save all
 There are 4 endpoints and the request methods for all the endpoints should be post method:
 #### 1. /create: 
 Json should have the following keys. If you would provide less or more number of keys then it will print an error saying that "Only 4 values allowed" .The example is as shown:
-{"id":2,"name":"Nitpreet Taneja","address":"Ludhiana","phone_number":1234567890}. This will create a new entry in both mysql and mongodb.
+
+\n {"id":2,"name":"Nitpreet Taneja","address":"Ludhiana","phone_number":1234567890}. This will create a new entry in both mysql and mongodb.
 
 
 #### 2. /update:
